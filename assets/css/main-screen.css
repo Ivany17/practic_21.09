@@ -17,8 +17,10 @@
 
 .main-img {
     display: block;
-    width: 100%;
+    max-width: 100%;
+    width: inherit;
     height: 100%;
+    margin: 0 auto;
     object-fit: cover;
     position: absolute;
     top: 0;
