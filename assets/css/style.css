@@ -42,6 +42,11 @@
     text-align: center;
 }
 
+.paddingY {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
 @media screen and (min-width: 576px) {
     :root {
         font-size: 15px;
@@ -52,6 +57,11 @@
     .main-heading {
         padding-top: 0;
     }
+    .paddingY {
+        padding-top: 6rem;
+        padding-bottom: 6rem;
+    }
+    
 }
 
 @media screen and (min-width: 992px) {

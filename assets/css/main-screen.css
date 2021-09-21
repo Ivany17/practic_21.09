@@ -1,7 +1,5 @@
 .main-screen {
     background-color: var(--bg-color);
-    padding-top: 2rem;
-    padding-bottom: 2rem;
     text-align: center;
 }
 
