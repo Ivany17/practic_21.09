@@ -1,9 +1,6 @@
-
-
-
 :root {
     --accent-color: #34547a;
-    --bg-color: #fcfdfd;
+    --bg-color: #e4e4e4;
     --text-color: #727272;
     --light-color: #fefefe;
     font-size: 14px;
@@ -54,6 +51,7 @@ html {
 .overflow {
     overflow: hidden;
     white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 @media screen and (min-width: 576px) {

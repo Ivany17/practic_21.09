@@ -26,6 +26,7 @@
 .nav-list::-webkit-scrollbar {
     display: none;
 }
+
 .nav-item + .nav-item {
     margin-left: 1rem;
 }
